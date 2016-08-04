@@ -1,11 +1,11 @@
 #Soul Music Trivia
 
  
- > Soul Music Trivia. A simple Alexa Skill to help y
+ Soul Music Trivia. An Alexa Skill 
  
- ![Soul Music Trivia](img/soul-trivia512.png)
+ ![Soul Music Trivia](img/soul-trivia108.png)
  
- ##Purpose:
+ Purpose:
  
- ### Features:
+ Features:
  
