@@ -3,7 +3,7 @@
  
 Soul Music Trivia is an Alexa Skill. 
  
- ![Soul Music Trivia](img/soul-trivia108.png)
+ ![Soul Music Trivia](img/soul-trivia200.png)
  
  Soul Music Trivia is a trivia game, with questions from the 60's, 70's and 80's.
  
@@ -29,4 +29,4 @@ Release Date: June 30, 2016 @ 05:57:26
 
 In-App Purchasing: No
 
-  [Alexa Amazon Skill](http://alexa.amazon.com/spa/index.html#skills/amzn1.echo-sdk-ams.app.652951b2-3ac4-43a1-9b10-81f7f71643a6).
+  [Alexa Amazon Skill - Soul Music Trivia](http://alexa.amazon.com/spa/index.html#skills/amzn1.echo-sdk-ams.app.652951b2-3ac4-43a1-9b10-81f7f71643a6).
